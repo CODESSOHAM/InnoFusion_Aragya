@@ -115,9 +115,12 @@ Open your browser at `http://localhost:3000`
 ## 🧰 Hardware Components
 
 - Arduino Uno / Arduino Nano
-- Vital signs sensors (pulse, temperature, SpO2, etc.)
+- Vital signs sensors (ECG-AD8232, SpO2-MAX30102, etc.)
 - Ventilation control actuator
+- Steeper Motor-NIMA17
 - Connecting wires and breadboard
+- Ventilation Bag
+- Oxygen cylinder
 
 ---
 
@@ -132,7 +135,7 @@ Open your browser at `http://localhost:3000`
 
 ## 👥 Team
 
-**Team CODESSOHAM** — InnoFusion Hackathon
+**Team ARAGYA** — InnoFusion Hackathon
 
 ---
 
